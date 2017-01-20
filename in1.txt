@@ -1,0 +1,78 @@
+/* 
+	This is a simple source file.
+	Author: MD. Ahsanul Haque	
+*/
+main_function()
+start		
+	//Starting main function of source program
+
+	//Variable declaration source program
+	integer a, b, c, i, j;
+	float f, g, h;
+
+	//Assignment statement source program
+	a = 10;
+	b = 20;
+	c = 30;
+
+	// expresssion evaluation
+	sin(60);
+	cos(60);
+	tan(60);
+	tan(60);
+	2+2*2^3;
+	2+-5;
+	
+	i = a + b;
+	j = 10;
+	//if else source program
+	if(i < 3)
+	start
+		if(j < 1)
+		start
+			a + 2;
+		end
+		else
+		start
+			c + 3;
+		end
+	end
+	else
+	start
+		b + 6;
+	end
+	
+	// Switch case source program
+	switch ( a )
+	start
+		case 1 :
+			a + b; 
+			break;
+
+		case 2 :
+			b + c;
+			break;
+
+		case 3 : 
+			a + c; 
+			break;
+		default :
+			a + a;
+			break;
+	end
+	
+	// Printing the values of the variables
+
+	a;
+	b;
+	c;
+	i;	
+	a = 5;
+	
+	//For loop source program
+	ForLoop(1...5)
+	start
+		a + 1;
+	end
+
+end

@@ -1,0 +1,60 @@
+
+Multi Line Comment
+
+Single Line Comment
+
+Single Line Comment
+Declaration
+Declaration
+
+Single Line Comment
+Value of the variable: 10	
+Value of the variable: 20	
+Value of the variable: 30	
+
+Single Line Comment
+sin 60 = 0.866025
+value of expression: 0
+cos 60 = 0.500000
+value of expression: 0
+tan 60 = 1.732051
+value of expression: 1
+tan 60 = 1.732051
+value of expression: 1
+value of expression: 18
+value of expression: -3
+Value of the variable: 30	
+Value of the variable: 10	
+
+Single Line Comment
+value of expression: 12
+value of expression: 33
+value of expression in ELSE: 33
+value of expression: 26
+value of expression in ELSE: 26
+
+Single Line Comment
+Value of the case expression: 30	
+Value of the case expression: 50	
+Value of the case expression: 40	
+Value of the default expression: 20	
+
+Single Line Comment
+value of expression: 10
+value of expression: 20
+value of expression: 30
+value of expression: 30
+Value of the variable: 5	
+
+Single Line Comment
+value of expression: 6
+
+value of For Loop for 1 time = 6
+
+value of For Loop for 2 time = 6
+
+value of For Loop for 3 time = 6
+
+value of For Loop for 4 time = 6
+
+value of For Loop for 5 time = 6

@@ -1,0 +1,4 @@
+bison -d filename.y
+flex filename.l
+gcc lex.yy.c filename.tab.c -o apt
+apt
